@@ -1,0 +1,30 @@
+/* KOMENTBOX STYLING */
+#NLPkomentBox {
+   margin: 0 10px;
+}
+
+#NLPkomentBoxContent{
+	margin: 0 10px;
+}
+/* END KOMENTBOX STYLING */
+
+
+/* ADMINISTRATION SETTINGS KOMENTBOX */
+.nlpcaptcha-form {
+   margin: auto !important;
+   width: 25em !important;
+}
+
+.nlpcaptcha-options td {
+   vertical-align: top !important;
+}
+
+.which-key label {
+   font-weight: bold;
+}
+
+.copyright {
+   text-align: center;
+   font-size: .85em;
+}
+/* END ADMINISTRATION SETTINGS KOMENTBOX */
